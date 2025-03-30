@@ -7,7 +7,5 @@ int main()
     std::cout << "trying" << std::endl;
     std::cout << "out" << std::endl;
     std::cout << "revert" << std::endl;
-
-    std::cout << DOESNT WORK;
     return 0;
 }
